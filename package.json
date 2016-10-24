@@ -1,0 +1,23 @@
+{
+  "name": "node_sql_storedatabase",
+  "version": "1.0.0",
+  "description": "Using my Node.js &amp; MySQL we will create an app that will take in orders from customers and deplete stock from the store's inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gmes23/Node.js-MySQL-BidSales.git"
+  },
+  "author": "gerardo mestanza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gmes23/Node.js-MySQL-BidSales/issues"
+  },
+  "homepage": "https://github.com/Gmes23/Node.js-MySQL-BidSales#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  }
+}
